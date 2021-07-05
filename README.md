@@ -12,7 +12,7 @@
 ## Começando
 ```
   - Clonar o Repositório
-  git clone https://github.com/pedroduarte2005/dowhile-api-typegraphql.git
+  git clone https://github.com/pduartesilva2005/dowhile-api-typegraphql.git
 
   - Instalar as Dependências
   yarn install ou npm start
